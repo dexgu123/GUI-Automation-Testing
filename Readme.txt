@@ -1,0 +1,1 @@
+I used espresso for this project on virtual machine. I included all .java test files in src folder. For the virtual device i used nexus one. All test are executable multiple times. I have attached also my documentation in this folder.
